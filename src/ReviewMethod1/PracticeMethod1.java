@@ -1,3 +1,5 @@
+package ReviewMethod1;
+
 public class PracticeMethod1 {
     public static int calculateSum(int num1, int num2) {
         int sum = num1 + num2;

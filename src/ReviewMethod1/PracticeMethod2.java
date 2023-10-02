@@ -1,3 +1,5 @@
+package ReviewMethod1;
+
 public class PracticeMethod2 {
     public static int countCharacters(String inputString) {
         int length = inputString.length();
