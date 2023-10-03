@@ -10,6 +10,7 @@ public class PracticeMethod2 {
         return num1 + num2;
     }
 
+    //変更テスト
     public static void main(String[] args) {
         System.out.println("合計: " + add(5, 7));
     }
