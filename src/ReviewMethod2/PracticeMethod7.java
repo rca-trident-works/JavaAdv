@@ -20,4 +20,10 @@ public class PracticeMethod7 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("回文構造かどうか: " + isPalindrome(scanner.nextLine()));
     }
+
+    // 問8
+    //  メソッドの定義の際に、static 修飾子を付ける理由を考えよう。 コメントアウトにて回答せよ。
+    //
+    // 回答:
+    //  static 修飾子を付けることで、インスタンス化せずにメソッドを呼び出すことができる。
 }
