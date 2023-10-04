@@ -7,8 +7,6 @@ public class PracticeMethod6 {
     //また main メソッドで呼び出し出力結果と同じになるようなコードを作成せよ。 メソッド名:findMax
 
     public static int findMax(int[] array) {
-        //return java.util.Arrays.stream(array).max().getAsInt();
-        // たぶん↓のほうが早い
         int max = array[0];
         for (int num : array) {
             if (max < num) {
