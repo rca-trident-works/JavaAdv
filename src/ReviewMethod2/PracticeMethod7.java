@@ -19,6 +19,7 @@ public class PracticeMethod7 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("回文構造かどうか: " + isPalindrome(scanner.nextLine()));
+        scanner.close();
     }
 
     // 問8

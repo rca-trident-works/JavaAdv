@@ -16,5 +16,6 @@ public class PracticeMethod3 {
         Scanner scanner = new Scanner(System.in);
         int inputNum = scanner.nextInt();
         System.out.println(inputNum + "は偶数かどうか: " + isEven(inputNum));
+        scanner.close();
     }
 }

@@ -17,5 +17,6 @@ public class PracticeMethod4 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("結合した文字列: " +
                 conStrings(scanner.nextLine(), scanner.nextLine()));
+        scanner.close();
     }
 }
