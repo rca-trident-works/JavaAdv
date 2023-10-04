@@ -1,5 +1,7 @@
 package ReviewMethod2;
 
+import java.util.Scanner;
+
 public class PracticeMethod5 {
 
     // 問5
@@ -19,6 +21,8 @@ public class PracticeMethod5 {
     }
 
     public static void main(String[] args) {
-        System.out.println("最小値: " + findMin(5, 7, 3));
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("最小値: " + findMin(scanner.nextInt(), scanner.nextInt(), scanner.nextInt()));
+        scanner.close();
     }
 }

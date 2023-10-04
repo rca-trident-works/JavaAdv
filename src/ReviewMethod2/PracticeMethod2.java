@@ -1,5 +1,7 @@
 package ReviewMethod2;
 
+import java.util.Scanner;
+
 public class PracticeMethod2 {
 
     // 問2
@@ -11,8 +13,9 @@ public class PracticeMethod2 {
         return num1 + num2;
     }
 
-    //変更テスト
     public static void main(String[] args) {
-        System.out.println("合計: " + add(5, 7));
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("合計: " + add(scanner.nextInt(), scanner.nextInt()));
+        scanner.close();
     }
 }
