@@ -4,8 +4,9 @@ import java.util.Scanner;
 public class PracticeMethod7 {
 
     // 問7
-    //Scanner クラスを使用し、キーボードから入力された文字列(ひらがな)を受け取り、 その文字列が回文構造かどうかを判定するメソッドを定義せよ。
-    //また main メソッドで呼び出し出力結果と同じになるようなコードを作成せよ。 メソッド名:isPalindrome
+    //  Scanner クラスを使用し、キーボードから入力された文字列(ひらがな)を受け取り、 その文字列が回文構造かどうかを判定するメソッドを定義せよ。
+    //  また main メソッドで呼び出し出力結果と同じになるようなコードを作成せよ。
+    //  メソッド名:isPalindrome
 
     public static boolean isPalindrome(String str) {
         StringBuilder reverseStr = new StringBuilder();

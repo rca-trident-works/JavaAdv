@@ -3,8 +3,9 @@ package ReviewMethod2;
 public class PracticeMethod5 {
 
     // 問5
-    //3 つの整数を受け取り、その中で最小の値を返却するメソッドを定義せよ。
-    //また main メソッドで呼び出し出力結果と同じになるようなコードを作成せよ。 メソッド名:findMin
+    //  3 つの整数を受け取り、その中で最小の値を返却するメソッドを定義せよ。
+    //  また main メソッドで呼び出し出力結果と同じになるようなコードを作成せよ。
+    //  メソッド名:findMin
 
     public static int findMin(int num1, int num2, int num3) {
         int min = num1;
