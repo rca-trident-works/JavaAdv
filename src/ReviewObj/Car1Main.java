@@ -7,8 +7,8 @@ class Car1 {
 
     void showInfo(String name, double gas, int num) {
         System.out.print("車種: " + name);
-        System.out.print("\t排気量: " + gas);
-        System.out.println("\tナンバー: " + num);
+        System.out.print("\t\t排気量: " + gas);
+        System.out.println("\t\tナンバー: " + num);
     }
 }
 
