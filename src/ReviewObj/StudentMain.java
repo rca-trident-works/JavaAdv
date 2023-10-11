@@ -36,5 +36,5 @@ public class StudentMain {
         System.out.println("mosi2の平均点: " + (s1.mosi2 + s2.mosi2 + s3.mosi2) / 3.0);
         System.out.println("mosi3の平均点: " + (s1.mosi3 + s2.mosi3 + s3.mosi3) / 3.0);
     }
-
+    // TODO: 参考があるのに気づかなかったので時間があったら書き直す
 }
