@@ -7,8 +7,8 @@ public class Ex01_6 {
         do {
             System.out.println(">");
             input = scanner.nextLine();
-            System.out.println(input);
-        } while (input.contains("END"));
+            System.out.println(input.length());
+        } while (!input.contains("END"));
         System.out.println("処理完了");
         scanner.close();
     }
