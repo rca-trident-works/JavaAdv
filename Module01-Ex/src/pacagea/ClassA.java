@@ -8,7 +8,7 @@ public class ClassA {
         System.out.println("Publicメソッド");
     }
 
-    private void privateMethod() {
+    public void privateMethod() {
         System.out.println("Privateメソッド");
     }
 }
