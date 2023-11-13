@@ -13,5 +13,9 @@ public class SetExample {
         System.out.println(set);
         System.out.println(set.contains("Jan"));
         System.out.println(set.contains("Jun"));
+
+        for (String txt : set) {
+            System.out.println(txt);
+        }
     }
 }
