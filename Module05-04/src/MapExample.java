@@ -21,5 +21,15 @@ public class MapExample {
         for (String key : map.keySet()) {
             System.out.println(key + " : " + map.get(key));
         }
+
+        System.out.println("☆☆値だけなら");
+        for (String value : map.values()) {
+            System.out.println(value);
+        }
+
+        System.out.println("☆☆☆エントリーセットからキーと値を出す");
+        for (HashMap.Entry<String, String> entry : map.entrySet()) {
+            System.out.println(entry.getKey() + " : " + entry.getValue());
+        }
     }
 }
