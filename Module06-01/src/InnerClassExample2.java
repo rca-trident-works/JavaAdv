@@ -15,6 +15,8 @@ class Outer2 {
 public class InnerClassExample2 {
     public static void main(String[] args) {
         Outer2 outer = new Outer2();
-        outer.doSomething();
+//        outer.doSomething();
+        Outer2.Inner inner = outer.new Inner();
+        inner.print();
     }
 }
