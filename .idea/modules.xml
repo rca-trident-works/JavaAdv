@@ -37,7 +37,12 @@
       <module fileurl="file://$PROJECT_DIR$/Module06-03/Module06-03.iml" filepath="$PROJECT_DIR$/Module06-03/Module06-03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module06-04/Module06-04.iml" filepath="$PROJECT_DIR$/Module06-04/Module06-04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module06-05/Module06-05.iml" filepath="$PROJECT_DIR$/Module06-05/Module06-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module06-06/Module06-06.iml" filepath="$PROJECT_DIR$/Module06-06/Module06-06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module06-Ex/Module06-Ex.iml" filepath="$PROJECT_DIR$/Module06-Ex/Module06-Ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module07-01/Module07-01.iml" filepath="$PROJECT_DIR$/Module07-01/Module07-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module07-02/Module07-02.iml" filepath="$PROJECT_DIR$/Module07-02/Module07-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module07-03/Module07-03.iml" filepath="$PROJECT_DIR$/Module07-03/Module07-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module07-04/Module07-04.iml" filepath="$PROJECT_DIR$/Module07-04/Module07-04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Playground/Playground.iml" filepath="$PROJECT_DIR$/Playground/Playground.iml" />
     </modules>
   </component>
